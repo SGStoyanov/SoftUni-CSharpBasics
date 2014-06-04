@@ -1,0 +1,6 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.1.SumOf3Ints\bin\Debug\4.1.SumOf3Ints.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.1.SumOf3Ints\obj\Debug\4.1.SumOf3Ints.csprojResolveAssemblyReference.cache
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.1.SumOf3Ints\bin\Debug\4.1.SumOf3Ints.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.1.SumOf3Ints\bin\Debug\4.1.SumOf3Ints.pdb
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.1.SumOf3Ints\obj\Debug\4.1.SumOf3Ints.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.1.SumOf3Ints\obj\Debug\4.1.SumOf3Ints.pdb

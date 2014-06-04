@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.9.SumOfNNums\bin\Debug\4.9.SumOfNNums.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.9.SumOfNNums\bin\Debug\4.9.SumOfNNums.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.9.SumOfNNums\bin\Debug\4.9.SumOfNNums.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.9.SumOfNNums\obj\Debug\4.9.SumOfNNums.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.9.SumOfNNums\obj\Debug\4.9.SumOfNNums.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.9.SumOfNNums\obj\Debug\4.9.SumOfNNums.pdb

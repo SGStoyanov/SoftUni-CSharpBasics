@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.13.AvgLoadTimeCalc\bin\Debug\07.13.AvgLoadTimeCalc.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.13.AvgLoadTimeCalc\bin\Debug\07.13.AvgLoadTimeCalc.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.13.AvgLoadTimeCalc\bin\Debug\07.13.AvgLoadTimeCalc.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.13.AvgLoadTimeCalc\obj\Debug\07.13.AvgLoadTimeCalc.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.13.AvgLoadTimeCalc\obj\Debug\07.13.AvgLoadTimeCalc.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.13.AvgLoadTimeCalc\obj\Debug\07.13.AvgLoadTimeCalc.pdb

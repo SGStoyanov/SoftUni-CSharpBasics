@@ -1,0 +1,6 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyCSharpExam\3\bin\Debug\3.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyCSharpExam\3\obj\Debug\3.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyCSharpExam\3\obj\Debug\3.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyCSharpExam\3\bin\Debug\3.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyCSharpExam\3\bin\Debug\3.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyCSharpExam\3\obj\Debug\3.csprojResolveAssemblyReference.cache

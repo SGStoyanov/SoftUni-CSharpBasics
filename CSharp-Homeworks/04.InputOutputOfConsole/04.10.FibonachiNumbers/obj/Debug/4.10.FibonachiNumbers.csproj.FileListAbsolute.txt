@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.10.FibonachiNumbers\bin\Debug\4.10.FibonachiNumbers.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.10.FibonachiNumbers\bin\Debug\4.10.FibonachiNumbers.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.10.FibonachiNumbers\bin\Debug\4.10.FibonachiNumbers.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.10.FibonachiNumbers\obj\Debug\4.10.FibonachiNumbers.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.10.FibonachiNumbers\obj\Debug\4.10.FibonachiNumbers.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.10.FibonachiNumbers\obj\Debug\4.10.FibonachiNumbers.pdb

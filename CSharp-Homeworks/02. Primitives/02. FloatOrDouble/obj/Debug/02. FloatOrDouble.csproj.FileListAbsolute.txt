@@ -1,0 +1,5 @@
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\02. Primitives\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\02. Primitives\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\02. Primitives\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\02. Primitives\02. FloatOrDouble\obj\Debug\_02.FloatOrDouble.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\02. Primitives\02. FloatOrDouble\obj\Debug\_02.FloatOrDouble.pdb

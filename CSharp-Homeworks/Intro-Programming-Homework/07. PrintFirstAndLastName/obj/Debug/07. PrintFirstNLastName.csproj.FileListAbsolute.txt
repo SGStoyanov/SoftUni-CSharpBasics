@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\7. PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\7. PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\7. PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\07. PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\07. PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\07. PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb

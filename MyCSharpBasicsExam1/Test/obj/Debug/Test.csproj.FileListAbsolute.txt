@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyCSharpExam\Test\bin\Debug\Test.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyCSharpExam\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyCSharpExam\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyCSharpExam\Test\obj\Debug\Test.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyCSharpExam\Test\obj\Debug\Test.pdb

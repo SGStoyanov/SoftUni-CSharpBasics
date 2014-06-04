@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.10.OddAndEventProduct\bin\Debug\06.10.OddAndEventProduct.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.10.OddAndEventProduct\bin\Debug\06.10.OddAndEventProduct.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.10.OddAndEventProduct\bin\Debug\06.10.OddAndEventProduct.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.10.OddAndEventProduct\obj\Debug\06.10.OddAndEventProduct.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.10.OddAndEventProduct\obj\Debug\06.10.OddAndEventProduct.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.10.OddAndEventProduct\obj\Debug\06.10.OddAndEventProduct.pdb

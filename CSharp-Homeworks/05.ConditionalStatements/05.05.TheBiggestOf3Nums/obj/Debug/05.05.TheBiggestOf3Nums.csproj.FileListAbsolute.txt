@@ -1,0 +1,6 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.05.TheBiggestOf3Nums\bin\Debug\05.05.TheBiggestOf3Nums.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.05.TheBiggestOf3Nums\bin\Debug\05.05.TheBiggestOf3Nums.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.05.TheBiggestOf3Nums\bin\Debug\05.05.TheBiggestOf3Nums.pdb
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.05.TheBiggestOf3Nums\obj\Debug\05.05.TheBiggestOf3Nums.csprojResolveAssemblyReference.cache
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.05.TheBiggestOf3Nums\obj\Debug\05.05.TheBiggestOf3Nums.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.05.TheBiggestOf3Nums\obj\Debug\05.05.TheBiggestOf3Nums.pdb

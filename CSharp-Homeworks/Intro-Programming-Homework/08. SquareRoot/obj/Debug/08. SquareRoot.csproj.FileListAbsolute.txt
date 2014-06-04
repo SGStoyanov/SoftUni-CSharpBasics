@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\8. SquareRoot\bin\Debug\_8.SquareRoot.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\8. SquareRoot\obj\Debug\_8.SquareRoot.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\8. SquareRoot\obj\Debug\_8.SquareRoot.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\08. SquareRoot\bin\Debug\_8.SquareRoot.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\08. SquareRoot\obj\Debug\_8.SquareRoot.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\08. SquareRoot\obj\Debug\_8.SquareRoot.pdb

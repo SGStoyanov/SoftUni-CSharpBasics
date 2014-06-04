@@ -1,0 +1,5 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.02.NumsNotDivisibleBy3And7\bin\Debug\06.02.NumsNotDivisibleBy3And7.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.02.NumsNotDivisibleBy3And7\bin\Debug\06.02.NumsNotDivisibleBy3And7.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.02.NumsNotDivisibleBy3And7\bin\Debug\06.02.NumsNotDivisibleBy3And7.pdb
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.02.NumsNotDivisibleBy3And7\obj\Debug\06.02.NumsNotDivisibleBy3And7.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.02.NumsNotDivisibleBy3And7\obj\Debug\06.02.NumsNotDivisibleBy3And7.pdb

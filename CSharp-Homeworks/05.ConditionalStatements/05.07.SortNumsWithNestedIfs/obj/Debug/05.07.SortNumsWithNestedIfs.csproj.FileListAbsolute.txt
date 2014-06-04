@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.07.SortNumsWithNestedIfs\bin\Debug\05.07.SortNumsWithNestedIfs.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.07.SortNumsWithNestedIfs\bin\Debug\05.07.SortNumsWithNestedIfs.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.07.SortNumsWithNestedIfs\bin\Debug\05.07.SortNumsWithNestedIfs.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.07.SortNumsWithNestedIfs\obj\Debug\05.07.SortNumsWithNestedIfs.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.07.SortNumsWithNestedIfs\obj\Debug\05.07.SortNumsWithNestedIfs.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.07.SortNumsWithNestedIfs\obj\Debug\05.07.SortNumsWithNestedIfs.pdb

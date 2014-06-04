@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\02. Primitives\01. DeclareVars\bin\Debug\_01.DeclareVars.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\02. Primitives\01. DeclareVars\bin\Debug\_01.DeclareVars.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\02. Primitives\01. DeclareVars\bin\Debug\_01.DeclareVars.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\02. Primitives\01. DeclareVars\obj\Debug\_01.DeclareVars.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\02. Primitives\01. DeclareVars\obj\Debug\_01.DeclareVars.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\02. Primitives\01. DeclareVars\obj\Debug\01. DeclareVars.csprojResolveAssemblyReference.cache

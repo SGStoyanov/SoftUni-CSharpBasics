@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\04.Input-Out-Console\04.01.SumOf3Ints\bin\Debug\4.1.SumOf3Ints.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\04.Input-Out-Console\04.01.SumOf3Ints\obj\Debug\4.1.SumOf3Ints.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\04.Input-Out-Console\04.01.SumOf3Ints\obj\Debug\4.1.SumOf3Ints.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\04.InputOutputOfConsole\04.01.SumOf3Ints\bin\Debug\4.1.SumOf3Ints.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\04.InputOutputOfConsole\04.01.SumOf3Ints\obj\Debug\4.1.SumOf3Ints.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\04.InputOutputOfConsole\04.01.SumOf3Ints\obj\Debug\4.1.SumOf3Ints.pdb

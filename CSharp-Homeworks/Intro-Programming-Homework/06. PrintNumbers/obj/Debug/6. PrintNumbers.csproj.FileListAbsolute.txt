@@ -1,0 +1,8 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\6. PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\6. PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\6. PrintNumbers\obj\Debug\PrintNumbers.pdb

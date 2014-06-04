@@ -1,0 +1,5 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\07. StringAndObjects\bin\Debug\_07.StringAndObjects.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\07. StringAndObjects\bin\Debug\_07.StringAndObjects.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\07. StringAndObjects\bin\Debug\_07.StringAndObjects.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\07. StringAndObjects\obj\Debug\_07.StringAndObjects.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\07. StringAndObjects\obj\Debug\_07.StringAndObjects.pdb

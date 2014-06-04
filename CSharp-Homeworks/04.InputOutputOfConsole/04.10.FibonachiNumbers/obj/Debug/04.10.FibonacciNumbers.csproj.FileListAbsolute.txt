@@ -1,0 +1,3 @@
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\04.Input-Out-Console\04.10.FibonachiNumbers\bin\Debug\4.10.FibonachiNumbers.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\04.Input-Out-Console\04.10.FibonachiNumbers\obj\Debug\4.10.FibonachiNumbers.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\04.Input-Out-Console\04.10.FibonachiNumbers\obj\Debug\4.10.FibonachiNumbers.pdb

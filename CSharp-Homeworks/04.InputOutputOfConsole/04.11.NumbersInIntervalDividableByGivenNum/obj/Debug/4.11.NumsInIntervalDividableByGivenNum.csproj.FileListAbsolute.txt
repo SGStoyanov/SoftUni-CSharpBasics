@@ -1,0 +1,8 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.11.NumbersInIntervalDividableByGivenNum\bin\Debug\4.11.NumbersInIntervalDividableByGivenNum.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.11.NumbersInIntervalDividableByGivenNum\bin\Debug\4.11.NumbersInIntervalDividableByGivenNum.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.11.NumbersInIntervalDividableByGivenNum\bin\Debug\4.11.NumbersInIntervalDividableByGivenNum.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.11.NumbersInIntervalDividableByGivenNum\obj\Debug\4.11.NumbersInIntervalDividableByGivenNum.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.11.NumbersInIntervalDividableByGivenNum\obj\Debug\4.11.NumbersInIntervalDividableByGivenNum.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\04.Input-Out-Console\4.11.NumbersInIntervalDividableByGivenNum\bin\Debug\4.11.NumbersInIntervalDividableByGivenNum.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\04.Input-Out-Console\4.11.NumbersInIntervalDividableByGivenNum\obj\Debug\4.11.NumbersInIntervalDividableByGivenNum.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\04.Input-Out-Console\4.11.NumbersInIntervalDividableByGivenNum\obj\Debug\4.11.NumbersInIntervalDividableByGivenNum.pdb

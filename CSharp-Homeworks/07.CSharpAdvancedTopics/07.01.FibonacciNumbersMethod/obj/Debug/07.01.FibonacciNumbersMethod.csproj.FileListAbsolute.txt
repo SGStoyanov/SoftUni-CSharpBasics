@@ -1,0 +1,6 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.01.FibonacciNumbersMethod\bin\Debug\07.01.FibonacciNumbersMethod.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.01.FibonacciNumbersMethod\bin\Debug\07.01.FibonacciNumbersMethod.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.01.FibonacciNumbersMethod\bin\Debug\07.01.FibonacciNumbersMethod.pdb
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.01.FibonacciNumbersMethod\obj\Debug\07.01.FibonacciNumbersMethod.csprojResolveAssemblyReference.cache
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.01.FibonacciNumbersMethod\obj\Debug\07.01.FibonacciNumbersMethod.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.01.FibonacciNumbersMethod\obj\Debug\07.01.FibonacciNumbersMethod.pdb

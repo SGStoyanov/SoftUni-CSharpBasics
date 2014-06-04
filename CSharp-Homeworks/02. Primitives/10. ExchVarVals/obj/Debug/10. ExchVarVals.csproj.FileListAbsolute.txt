@@ -1,0 +1,5 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\10. ExchVarVals\bin\Debug\_10.ExchVarVals.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\10. ExchVarVals\bin\Debug\_10.ExchVarVals.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\10. ExchVarVals\bin\Debug\_10.ExchVarVals.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\10. ExchVarVals\obj\Debug\_10.ExchVarVals.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\10. ExchVarVals\obj\Debug\_10.ExchVarVals.pdb

@@ -1,0 +1,5 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\13. NullValuesArithmetic\bin\Debug\_13.NullValuesArithmetic.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\13. NullValuesArithmetic\bin\Debug\_13.NullValuesArithmetic.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\13. NullValuesArithmetic\bin\Debug\_13.NullValuesArithmetic.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\13. NullValuesArithmetic\obj\Debug\_13.NullValuesArithmetic.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\13. NullValuesArithmetic\obj\Debug\_13.NullValuesArithmetic.pdb

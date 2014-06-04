@@ -1,0 +1,6 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\8. SquareRoot\bin\Debug\_8.SquareRoot.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\8. SquareRoot\bin\Debug\_8.SquareRoot.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\8. SquareRoot\bin\Debug\_8.SquareRoot.pdb
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\8. SquareRoot\obj\Debug\_8.SquareRoot.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\8. SquareRoot\obj\Debug\_8.SquareRoot.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\8. SquareRoot\obj\Debug\8. SquareRoot.csprojResolveAssemblyReference.cache

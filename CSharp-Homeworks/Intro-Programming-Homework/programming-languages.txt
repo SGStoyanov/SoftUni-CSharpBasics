@@ -1,0 +1,45 @@
+Problem 11.	Programming Languages
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages. How similar are they to C#? How do they differ from C#? Write in a text file called “programming-languages.txt” at least five languages along with 2-3 sentences about each of them. Use English.
+
+1. C++ - an extension of the C language. It's one of the most popular programming languages.
+Similarities between C++ and C#:
+	1. They are both object oriented programming languages;
+	2. They share similar syntax and they are both compiled; 
+	3. Delegates: C# delegates are roughly similar to function pointers in C++, are type-safe and secure.
+Differences:
+	1. C++ allows more highly controlled code with much details;
+	2. C# can be easily used for developing Web applications;
+	3. Local variables in C# cannot be used before they are initialized.
+
+2. Java - it follows very strong syntax and it's also object oriented. Java is purposed to be platform independent.
+Similarities between Java and C#:
+	1. They have very similar syntax - C++ based;
+	2. They both use "garbage-collection" for the memory management;
+Differences:
+	1. In terms of platform independence Java is more powerful (using JVM);
+	2. Java supports checked exceptions for better enforcement of error trapping and handling.
+	
+3. JavaScript - a dynamic computer programming language. It is primary aimed in the web development where it interacts with the user and can control the browser.
+Similarities between JavaScript and C#:
+	1. Both languages can be used for developing web projects.
+	2. You can define classes in Javascript, in a similar way to C#. 
+Differences:
+	1. Some primitives have different names - for example bool <> boolean, string <> String;
+	2. In Javascript only, variables can have an unspecified type. This only occurs if you do not assign a value while declaring the variable. 
+	
+4. Objective C - that's the programming language that stands behind Apple's iOS and OS X and theirs applications. Because of the smartphone boom, in the recent years it had a tremendous popularity for the development of mobile apps.
+Similarities between Objective C and C#:
+	1. They both can be used for developing mobile applications;
+	2. C# has all non-type-safe power features that ObjC does: raw pointers, pointer arithmetic, bound-unchecked arrays, unions...
+Differences:
+	1. C# is tightly coupled with .NET, Objective-C is tightly coupled with Cocoa;
+	2. As a strict superset of C, Objective-C trusts that you know what you're doing. Unlike the managed and/or typesafe approach of languages like C#, Objective-C lets you do what you want and experience the consequences. 
+	
+5. PHP - PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language.
+Similarities between PHP and C#:
+	1. They both use a C style syntax;
+	2. They both support Unicode.
+	3. They are both easy to use and free for commercial use;
+Differences:
+	1. PHP uses an interpreter, C# compiles the applications to executable files;
+	2. PHP is a dynamically typed scripting language, while C# is statically typed programming language.

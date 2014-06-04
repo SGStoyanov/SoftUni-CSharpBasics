@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\3.9 Trapezoids\bin\Debug\3.9 Trapezoids.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\3.9 Trapezoids\bin\Debug\3.9 Trapezoids.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\3.9 Trapezoids\bin\Debug\3.9 Trapezoids.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\3.9 Trapezoids\obj\Debug\3.9 Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\3.9 Trapezoids\obj\Debug\3.9 Trapezoids.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\3.9 Trapezoids\obj\Debug\3.9 Trapezoids.pdb

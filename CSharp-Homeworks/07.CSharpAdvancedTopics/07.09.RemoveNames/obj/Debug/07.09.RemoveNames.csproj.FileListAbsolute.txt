@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.09.RemoveNames\bin\Debug\07.09.RemoveNames.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.09.RemoveNames\bin\Debug\07.09.RemoveNames.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.09.RemoveNames\bin\Debug\07.09.RemoveNames.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.09.RemoveNames\obj\Debug\07.09.RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.09.RemoveNames\obj\Debug\07.09.RemoveNames.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.09.RemoveNames\obj\Debug\07.09.RemoveNames.pdb

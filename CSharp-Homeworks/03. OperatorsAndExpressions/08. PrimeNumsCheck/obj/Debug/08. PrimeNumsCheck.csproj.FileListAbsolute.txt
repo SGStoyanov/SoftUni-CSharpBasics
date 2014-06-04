@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\08. PrimeNumsCheck\bin\Debug\_08.PrimeNumsCheck.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\08. PrimeNumsCheck\bin\Debug\_08.PrimeNumsCheck.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\08. PrimeNumsCheck\bin\Debug\_08.PrimeNumsCheck.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\08. PrimeNumsCheck\obj\Debug\08. PrimeNumsCheck.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\08. PrimeNumsCheck\obj\Debug\_08.PrimeNumsCheck.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\08. PrimeNumsCheck\obj\Debug\_08.PrimeNumsCheck.pdb

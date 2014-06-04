@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.05.CalculateFactorials\bin\Debug\06.05.CalculateFactorials.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.05.CalculateFactorials\bin\Debug\06.05.CalculateFactorials.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.05.CalculateFactorials\bin\Debug\06.05.CalculateFactorials.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.05.CalculateFactorials\obj\Debug\06.05.CalculateFactorials.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.05.CalculateFactorials\obj\Debug\06.05.CalculateFactorials.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.05.CalculateFactorials\obj\Debug\06.05.CalculateFactorials.pdb

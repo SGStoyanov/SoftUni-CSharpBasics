@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\3.10 PointPos-CircleRectangle\bin\Debug\3.10 PointPos-CircleRectangle.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\3.10 PointPos-CircleRectangle\bin\Debug\3.10 PointPos-CircleRectangle.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\3.10 PointPos-CircleRectangle\bin\Debug\3.10 PointPos-CircleRectangle.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\3.10 PointPos-CircleRectangle\obj\Debug\10. PointPos-CircleRectangle.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\3.10 PointPos-CircleRectangle\obj\Debug\3.10 PointPos-CircleRectangle.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\3.10 PointPos-CircleRectangle\obj\Debug\3.10 PointPos-CircleRectangle.pdb

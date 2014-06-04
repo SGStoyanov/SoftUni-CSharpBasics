@@ -1,0 +1,6 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\10. HorribleCode\bin\Debug\_10.HorribleCode.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\10. HorribleCode\bin\Debug\_10.HorribleCode.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\10. HorribleCode\bin\Debug\_10.HorribleCode.pdb
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\10. HorribleCode\obj\Debug\_10.HorribleCode.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\10. HorribleCode\obj\Debug\_10.HorribleCode.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\10. HorribleCode\obj\Debug\10. HorribleCode.csprojResolveAssemblyReference.cache

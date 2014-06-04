@@ -1,0 +1,5 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\06. BooleanVar\bin\Debug\_06.BooleanVar.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\06. BooleanVar\bin\Debug\_06.BooleanVar.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\06. BooleanVar\bin\Debug\_06.BooleanVar.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\06. BooleanVar\obj\Debug\_06.BooleanVar.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\06. BooleanVar\obj\Debug\_06.BooleanVar.pdb

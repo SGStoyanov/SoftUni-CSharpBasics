@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\05. ThirdDigit7\bin\Debug\_05.ThirdDigit7.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\05. ThirdDigit7\bin\Debug\_05.ThirdDigit7.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\05. ThirdDigit7\bin\Debug\_05.ThirdDigit7.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\05. ThirdDigit7\obj\Debug\05. ThirdDigit7.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\05. ThirdDigit7\obj\Debug\_05.ThirdDigit7.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\05. ThirdDigit7\obj\Debug\_05.ThirdDigit7.pdb

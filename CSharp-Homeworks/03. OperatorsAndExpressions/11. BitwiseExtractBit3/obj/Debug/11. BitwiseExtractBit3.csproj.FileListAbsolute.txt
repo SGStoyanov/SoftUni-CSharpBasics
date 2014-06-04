@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\11. BitwiseExtractBit3\bin\Debug\_11.BitwiseExtractBit3.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\11. BitwiseExtractBit3\bin\Debug\_11.BitwiseExtractBit3.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\11. BitwiseExtractBit3\bin\Debug\_11.BitwiseExtractBit3.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\11. BitwiseExtractBit3\obj\Debug\11. BitwiseExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\11. BitwiseExtractBit3\obj\Debug\_11.BitwiseExtractBit3.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\11. BitwiseExtractBit3\obj\Debug\_11.BitwiseExtractBit3.pdb

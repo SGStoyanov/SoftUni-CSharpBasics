@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\01. OddOrEvenInts\bin\Debug\_01.OddOrEvenInts.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\03. OperatorsAndExpressions\01. OddOrEvenInts\bin\Debug\_01.OddOrEvenInts.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\03. OperatorsAndExpressions\01. OddOrEvenInts\bin\Debug\_01.OddOrEvenInts.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\03. OperatorsAndExpressions\01. OddOrEvenInts\obj\Debug\01. OddOrEvenInts.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\03. OperatorsAndExpressions\01. OddOrEvenInts\obj\Debug\_01.OddOrEvenInts.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\03. OperatorsAndExpressions\01. OddOrEvenInts\obj\Debug\_01.OddOrEvenInts.pdb

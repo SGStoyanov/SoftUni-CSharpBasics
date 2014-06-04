@@ -1,0 +1,5 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\04. VarHex\bin\Debug\_04.VarHex.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\04. VarHex\bin\Debug\_04.VarHex.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\04. VarHex\bin\Debug\_04.VarHex.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\04. VarHex\obj\Debug\_04.VarHex.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\04. VarHex\obj\Debug\_04.VarHex.pdb

@@ -1,0 +1,6 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.5.FormattingNums\bin\Debug\4.5.FormattingNums.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.5.FormattingNums\bin\Debug\4.5.FormattingNums.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.5.FormattingNums\bin\Debug\4.5.FormattingNums.pdb
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.5.FormattingNums\obj\Debug\4.5.FormattingNums.csprojResolveAssemblyReference.cache
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.5.FormattingNums\obj\Debug\4.5.FormattingNums.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.5.FormattingNums\obj\Debug\4.5.FormattingNums.pdb

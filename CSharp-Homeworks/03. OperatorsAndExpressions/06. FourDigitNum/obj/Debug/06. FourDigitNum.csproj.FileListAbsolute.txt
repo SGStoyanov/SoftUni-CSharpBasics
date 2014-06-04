@@ -1,0 +1,5 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\06. FourDigitNum\bin\Debug\_06.FourDigitNum.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\06. FourDigitNum\bin\Debug\_06.FourDigitNum.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\06. FourDigitNum\bin\Debug\_06.FourDigitNum.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\06. FourDigitNum\obj\Debug\_06.FourDigitNum.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\06. FourDigitNum\obj\Debug\_06.FourDigitNum.pdb

@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\14. ModifyBitAtPos\bin\Debug\_14.ModifyBitAtPos.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\14. ModifyBitAtPos\bin\Debug\_14.ModifyBitAtPos.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\14. ModifyBitAtPos\bin\Debug\_14.ModifyBitAtPos.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\14. ModifyBitAtPos\obj\Debug\14. ModifyBitAtPos.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\14. ModifyBitAtPos\obj\Debug\_14.ModifyBitAtPos.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\14. ModifyBitAtPos\obj\Debug\_14.ModifyBitAtPos.pdb

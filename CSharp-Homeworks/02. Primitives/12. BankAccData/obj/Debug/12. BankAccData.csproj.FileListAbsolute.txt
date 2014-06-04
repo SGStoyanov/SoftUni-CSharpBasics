@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\12. BankAccData\bin\Debug\_12.BankAccData.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\12. BankAccData\bin\Debug\_12.BankAccData.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\12. BankAccData\bin\Debug\_12.BankAccData.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\12. BankAccData\obj\Debug\12. BankAccData.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\12. BankAccData\obj\Debug\_12.BankAccData.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\12. BankAccData\obj\Debug\_12.BankAccData.pdb

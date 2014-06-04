@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.09.MatrixOfNumbers\bin\Debug\06.09.MatrixOfNumbers.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.09.MatrixOfNumbers\bin\Debug\06.09.MatrixOfNumbers.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.09.MatrixOfNumbers\bin\Debug\06.09.MatrixOfNumbers.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.09.MatrixOfNumbers\obj\Debug\06.09.MatrixOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.09.MatrixOfNumbers\obj\Debug\06.09.MatrixOfNumbers.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.09.MatrixOfNumbers\obj\Debug\06.09.MatrixOfNumbers.pdb

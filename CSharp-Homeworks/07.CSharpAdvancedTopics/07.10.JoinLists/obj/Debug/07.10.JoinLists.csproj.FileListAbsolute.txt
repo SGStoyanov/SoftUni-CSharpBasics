@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.10.JoinLists\bin\Debug\07.10.JoinLists.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.10.JoinLists\bin\Debug\07.10.JoinLists.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.10.JoinLists\bin\Debug\07.10.JoinLists.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.10.JoinLists\obj\Debug\07.10.JoinLists.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.10.JoinLists\obj\Debug\07.10.JoinLists.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.10.JoinLists\obj\Debug\07.10.JoinLists.pdb

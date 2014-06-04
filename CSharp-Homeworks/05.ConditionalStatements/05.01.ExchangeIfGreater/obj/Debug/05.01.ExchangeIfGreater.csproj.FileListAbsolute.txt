@@ -1,0 +1,6 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\04.01.ExchangeIfGreater\bin\Debug\04.01.ExchangeIfGreater.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\04.01.ExchangeIfGreater\obj\Debug\04.01.ExchangeIfGreater.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\04.01.ExchangeIfGreater\obj\Debug\04.01.ExchangeIfGreater.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\05.ConditionalStatements\05.01.ExchangeIfGreater\bin\Debug\04.01.ExchangeIfGreater.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\05.ConditionalStatements\05.01.ExchangeIfGreater\obj\Debug\04.01.ExchangeIfGreater.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\05.ConditionalStatements\05.01.ExchangeIfGreater\obj\Debug\04.01.ExchangeIfGreater.pdb

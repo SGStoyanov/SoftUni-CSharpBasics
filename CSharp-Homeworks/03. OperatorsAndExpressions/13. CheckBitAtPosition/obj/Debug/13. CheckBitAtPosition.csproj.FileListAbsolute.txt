@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\13. CheckBitAtPosition\bin\Debug\_13.CheckBitAtPosition.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\13. CheckBitAtPosition\bin\Debug\_13.CheckBitAtPosition.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\13. CheckBitAtPosition\bin\Debug\_13.CheckBitAtPosition.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\13. CheckBitAtPosition\obj\Debug\13. CheckBitAtPosition.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\13. CheckBitAtPosition\obj\Debug\_13.CheckBitAtPosition.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\13. CheckBitAtPosition\obj\Debug\_13.CheckBitAtPosition.pdb

@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.14.LongestWordInAText\bin\Debug\07.14.LongestWordInAText.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.14.LongestWordInAText\bin\Debug\07.14.LongestWordInAText.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.14.LongestWordInAText\bin\Debug\07.14.LongestWordInAText.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.14.LongestWordInAText\obj\Debug\07.14.LongestWordInAText.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.14.LongestWordInAText\obj\Debug\07.14.LongestWordInAText.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.14.LongestWordInAText\obj\Debug\07.14.LongestWordInAText.pdb

@@ -1,0 +1,5 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\08. QuotesInStrings\bin\Debug\_08.QuotesInStrings.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\08. QuotesInStrings\bin\Debug\_08.QuotesInStrings.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\08. QuotesInStrings\bin\Debug\_08.QuotesInStrings.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\08. QuotesInStrings\obj\Debug\_08.QuotesInStrings.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\08. QuotesInStrings\obj\Debug\_08.QuotesInStrings.pdb

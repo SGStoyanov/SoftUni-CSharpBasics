@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.11.NumsAsWords\bin\Debug\05.11.NumsAsWords.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.11.NumsAsWords\bin\Debug\05.11.NumsAsWords.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.11.NumsAsWords\bin\Debug\05.11.NumsAsWords.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.11.NumsAsWords\obj\Debug\05.11.NumsAsWords.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.11.NumsAsWords\obj\Debug\05.11.NumsAsWords.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.11.NumsAsWords\obj\Debug\05.11.NumsAsWords.pdb

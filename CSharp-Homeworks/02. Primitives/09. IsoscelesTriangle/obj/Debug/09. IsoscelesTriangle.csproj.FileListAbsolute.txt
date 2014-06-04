@@ -1,0 +1,5 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\09. IsoscelesTriangle\bin\Debug\_09.IsoscelesTriangle.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\09. IsoscelesTriangle\bin\Debug\_09.IsoscelesTriangle.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\09. IsoscelesTriangle\bin\Debug\_09.IsoscelesTriangle.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\09. IsoscelesTriangle\obj\Debug\_09.IsoscelesTriangle.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\09. IsoscelesTriangle\obj\Debug\_09.IsoscelesTriangle.pdb

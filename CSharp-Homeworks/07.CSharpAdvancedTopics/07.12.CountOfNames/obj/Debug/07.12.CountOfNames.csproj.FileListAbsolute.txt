@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.12.CountOfNames\bin\Debug\07.12.CountOfNames.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.12.CountOfNames\bin\Debug\07.12.CountOfNames.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.12.CountOfNames\bin\Debug\07.12.CountOfNames.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.12.CountOfNames\obj\Debug\07.12.CountOfNames.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.12.CountOfNames\obj\Debug\07.12.CountOfNames.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\07.CSharpAdvancedTopics\07.12.CountOfNames\obj\Debug\07.12.CountOfNames.pdb

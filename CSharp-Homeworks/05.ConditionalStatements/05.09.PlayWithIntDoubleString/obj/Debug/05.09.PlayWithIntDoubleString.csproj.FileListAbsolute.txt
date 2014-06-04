@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.09.PlayWithIntDoubleString\bin\Debug\05.09.PlayWithIntDoubleString.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.09.PlayWithIntDoubleString\bin\Debug\05.09.PlayWithIntDoubleString.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.09.PlayWithIntDoubleString\bin\Debug\05.09.PlayWithIntDoubleString.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.09.PlayWithIntDoubleString\obj\Debug\05.09.PlayWithIntDoubleString.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.09.PlayWithIntDoubleString\obj\Debug\05.09.PlayWithIntDoubleString.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\05.ConditionalStatements\05.09.PlayWithIntDoubleString\obj\Debug\05.09.PlayWithIntDoubleString.pdb

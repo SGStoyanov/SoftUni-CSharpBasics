@@ -1,0 +1,6 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\14. PrintCurrentDateTime\bin\Debug\_14.PrintCurrentDateTime.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\14. PrintCurrentDateTime\obj\Debug\14. PrintCurrentDateTime.csprojResolveAssemblyReference.cache
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\14. PrintCurrentDateTime\bin\Debug\_14.PrintCurrentDateTime.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\14. PrintCurrentDateTime\bin\Debug\_14.PrintCurrentDateTime.pdb
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\14. PrintCurrentDateTime\obj\Debug\_14.PrintCurrentDateTime.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\Intro-Programming-Homework\14. PrintCurrentDateTime\obj\Debug\_14.PrintCurrentDateTime.pdb

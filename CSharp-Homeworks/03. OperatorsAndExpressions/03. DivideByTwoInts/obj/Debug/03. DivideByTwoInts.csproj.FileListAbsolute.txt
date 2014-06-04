@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\03. OperatorsAndExpressions\03. DivideByTwoInts\bin\Debug\_03.DivideByTwoInts.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\03. OperatorsAndExpressions\03. DivideByTwoInts\bin\Debug\_03.DivideByTwoInts.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\03. OperatorsAndExpressions\03. DivideByTwoInts\bin\Debug\_03.DivideByTwoInts.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\03. OperatorsAndExpressions\03. DivideByTwoInts\obj\Debug\03. DivideByTwoInts.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\03. OperatorsAndExpressions\03. DivideByTwoInts\obj\Debug\_03.DivideByTwoInts.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\03. OperatorsAndExpressions\03. DivideByTwoInts\obj\Debug\_03.DivideByTwoInts.pdb

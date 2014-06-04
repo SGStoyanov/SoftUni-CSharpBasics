@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\11. EmployeeData\bin\Debug\_11.EmployeeData.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\11. EmployeeData\bin\Debug\_11.EmployeeData.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\11. EmployeeData\bin\Debug\_11.EmployeeData.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\11. EmployeeData\obj\Debug\11. EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\11. EmployeeData\obj\Debug\_11.EmployeeData.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\11. EmployeeData\obj\Debug\_11.EmployeeData.pdb

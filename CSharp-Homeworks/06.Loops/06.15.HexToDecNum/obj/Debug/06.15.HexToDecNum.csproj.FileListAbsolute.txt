@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.15.HexToDecNum\bin\Debug\06.15.HexToDecNum.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.15.HexToDecNum\bin\Debug\06.15.HexToDecNum.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.15.HexToDecNum\bin\Debug\06.15.HexToDecNum.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.15.HexToDecNum\obj\Debug\06.15.HexToDecNum.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.15.HexToDecNum\obj\Debug\06.15.HexToDecNum.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.15.HexToDecNum\obj\Debug\06.15.HexToDecNum.pdb

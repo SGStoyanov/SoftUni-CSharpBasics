@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.07.CalculateComplexFactorials\bin\Debug\06.07.CalculateComplexFactorials.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.07.CalculateComplexFactorials\bin\Debug\06.07.CalculateComplexFactorials.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.07.CalculateComplexFactorials\bin\Debug\06.07.CalculateComplexFactorials.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.07.CalculateComplexFactorials\obj\Debug\06.07.CalculateComplexFactorials.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.07.CalculateComplexFactorials\obj\Debug\06.07.CalculateComplexFactorials.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.07.CalculateComplexFactorials\obj\Debug\06.07.CalculateComplexFactorials.pdb

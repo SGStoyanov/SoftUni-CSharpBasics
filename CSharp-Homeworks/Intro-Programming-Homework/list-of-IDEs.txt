@@ -1,0 +1,14 @@
+Problem 12.	Development Environments
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like Visual Studio. Write in a text file called “list-of-IDEs.txt” at least five IDEs along with 2-3 sentences about each of them. Use English.
+
+1. Microsoft Visual Studio - it's the most used integrated development environment. It is considered as the most feature and functions complete IDE for creating a C# projects but also supports C, C++, VB.NET, F#. It has free and paid versions.
+
+2. Eclipse - In computer programming, Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: Ada, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Perl, PHP, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang.
+
+3. NetBeans is an open source (free) integrated development environment (IDE) for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5. It is also an application platform framework for Java desktop applications and others. The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+4. MonoDevelop - MonoDevelop is a cross-platform IDE primarily designed for C# and other .NET languages. MonoDevelop enables developers to quickly write desktop and ASP.NET Web applications on Linux, Windows and Mac OSX. MonoDevelop makes it easy for developers to port .NET applications created with Visual Studio to Linux and Mac OSX maintaining a single code base for all platforms.
+
+5. #develop (short for SharpDevelop) is a free IDE for C#, VB.NET and Boo projects on Microsoft's .NET platform. It is open-source and a good alternative of Microsoft Visual Studio.
+
+6. Adobe Dreamweaver - Adobe Dreamweaver is a proprietary web development tool developed by Adobe Systems. Recent versions have improved support for Web technologies such as CSS, JavaScript, and various server-side scripting languages and frameworks including ASP (ASP JavaScript, ASP VBScript, ASP.NET C#, ASP.NET VB), ColdFusion, Scriptlet, and PHP.

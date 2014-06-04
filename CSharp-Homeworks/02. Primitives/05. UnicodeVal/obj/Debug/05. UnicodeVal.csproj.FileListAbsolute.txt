@@ -1,0 +1,5 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\05. UnicodeVal\bin\Debug\_05.UnicodeVal.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\05. UnicodeVal\bin\Debug\_05.UnicodeVal.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\05. UnicodeVal\bin\Debug\_05.UnicodeVal.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\05. UnicodeVal\obj\Debug\_05.UnicodeVal.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\02. Primitives\05. UnicodeVal\obj\Debug\_05.UnicodeVal.pdb

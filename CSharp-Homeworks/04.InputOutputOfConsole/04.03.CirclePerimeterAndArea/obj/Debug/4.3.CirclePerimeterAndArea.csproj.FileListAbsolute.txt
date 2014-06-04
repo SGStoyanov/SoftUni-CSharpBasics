@@ -1,0 +1,6 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.3.CirclePerimeterAndArea\bin\Debug\4.3.CirclePerimeterAndArea.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.3.CirclePerimeterAndArea\bin\Debug\4.3.CirclePerimeterAndArea.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.3.CirclePerimeterAndArea\bin\Debug\4.3.CirclePerimeterAndArea.pdb
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.3.CirclePerimeterAndArea\obj\Debug\4.3.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.3.CirclePerimeterAndArea\obj\Debug\4.3.CirclePerimeterAndArea.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.3.CirclePerimeterAndArea\obj\Debug\4.3.CirclePerimeterAndArea.pdb

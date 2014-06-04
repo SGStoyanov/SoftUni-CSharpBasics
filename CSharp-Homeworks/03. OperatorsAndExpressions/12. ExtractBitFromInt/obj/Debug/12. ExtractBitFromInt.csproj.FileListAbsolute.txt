@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\12. ExtractBitFromInt\bin\Debug\_12.ExtractBitFromInt.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\12. ExtractBitFromInt\bin\Debug\_12.ExtractBitFromInt.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\12. ExtractBitFromInt\bin\Debug\_12.ExtractBitFromInt.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\12. ExtractBitFromInt\obj\Debug\12. ExtractBitFromInt.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\12. ExtractBitFromInt\obj\Debug\_12.ExtractBitFromInt.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\03. OperatorsAndExpressions\12. ExtractBitFromInt\obj\Debug\_12.ExtractBitFromInt.pdb

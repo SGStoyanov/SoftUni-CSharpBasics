@@ -1,0 +1,3 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.8.NumbersFrom1ToN\bin\Debug\4.8.NumbersFrom1ToN.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.8.NumbersFrom1ToN\obj\Debug\4.8.NumbersFrom1ToN.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.8.NumbersFrom1ToN\obj\Debug\4.8.NumbersFrom1ToN.pdb

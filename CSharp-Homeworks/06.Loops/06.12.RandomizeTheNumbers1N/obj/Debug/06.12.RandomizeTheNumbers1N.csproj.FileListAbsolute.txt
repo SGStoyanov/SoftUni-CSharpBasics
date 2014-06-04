@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.12.RandomizeTheNumbers1N\bin\Debug\06.12.RandomizeTheNumbers1N.exe.config
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.12.RandomizeTheNumbers1N\bin\Debug\06.12.RandomizeTheNumbers1N.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.12.RandomizeTheNumbers1N\bin\Debug\06.12.RandomizeTheNumbers1N.pdb
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.12.RandomizeTheNumbers1N\obj\Debug\06.12.RandomizeTheNumbers1N.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.12.RandomizeTheNumbers1N\obj\Debug\06.12.RandomizeTheNumbers1N.exe
+C:\Users\adm-bgsstnv\Documents\Visual Studio 2013\Projects\06.Loops\06.12.RandomizeTheNumbers1N\obj\Debug\06.12.RandomizeTheNumbers1N.pdb

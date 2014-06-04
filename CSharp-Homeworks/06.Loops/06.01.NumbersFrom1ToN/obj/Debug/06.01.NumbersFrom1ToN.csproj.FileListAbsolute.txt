@@ -1,0 +1,6 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.01.NumbersFrom1ToN\bin\Debug\06.01.NumbersFrom1ToN.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.01.NumbersFrom1ToN\bin\Debug\06.01.NumbersFrom1ToN.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.01.NumbersFrom1ToN\bin\Debug\06.01.NumbersFrom1ToN.pdb
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.01.NumbersFrom1ToN\obj\Debug\06.01.NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.01.NumbersFrom1ToN\obj\Debug\06.01.NumbersFrom1ToN.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.01.NumbersFrom1ToN\obj\Debug\06.01.NumbersFrom1ToN.pdb

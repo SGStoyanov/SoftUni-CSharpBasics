@@ -1,0 +1,5 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.2.PrintCompanyInfo\bin\Debug\4.2.PrintCompanyInfo.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.2.PrintCompanyInfo\bin\Debug\4.2.PrintCompanyInfo.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.2.PrintCompanyInfo\bin\Debug\4.2.PrintCompanyInfo.pdb
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.2.PrintCompanyInfo\obj\Debug\4.2.PrintCompanyInfo.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.2.PrintCompanyInfo\obj\Debug\4.2.PrintCompanyInfo.pdb

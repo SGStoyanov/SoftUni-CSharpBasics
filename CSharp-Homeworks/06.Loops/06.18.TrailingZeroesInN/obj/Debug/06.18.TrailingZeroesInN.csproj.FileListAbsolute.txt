@@ -1,0 +1,6 @@
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.18.TrailingZeroesInN\bin\Debug\06.18.TrailingZeroesInN.exe.config
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.18.TrailingZeroesInN\bin\Debug\06.18.TrailingZeroesInN.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.18.TrailingZeroesInN\bin\Debug\06.18.TrailingZeroesInN.pdb
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.18.TrailingZeroesInN\obj\Debug\06.18.TrailingZeroesInN.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.18.TrailingZeroesInN\obj\Debug\06.18.TrailingZeroesInN.exe
+C:\Users\adm-bgsstnv\documents\visual studio 2013\Projects\06.Loops\06.18.TrailingZeroesInN\obj\Debug\06.18.TrailingZeroesInN.pdb

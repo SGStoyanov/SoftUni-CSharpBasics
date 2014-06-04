@@ -1,0 +1,6 @@
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.7.SumOf5Nums\bin\Debug\4.7.SumOf5Nums.exe.config
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.7.SumOf5Nums\bin\Debug\4.7.SumOf5Nums.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.7.SumOf5Nums\bin\Debug\4.7.SumOf5Nums.pdb
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.7.SumOf5Nums\obj\Debug\4.7.SumOf5Nums.csprojResolveAssemblyReference.cache
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.7.SumOf5Nums\obj\Debug\4.7.SumOf5Nums.exe
+c:\users\adm-bgsstnv\documents\visual studio 2013\Projects\4.Input-Out-Console\4.7.SumOf5Nums\obj\Debug\4.7.SumOf5Nums.pdb
