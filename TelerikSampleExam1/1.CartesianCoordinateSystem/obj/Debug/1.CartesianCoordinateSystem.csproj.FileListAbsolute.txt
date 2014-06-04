@@ -1,0 +1,6 @@
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\1.CartesianCoordinateSystem\bin\Debug\1.CartesianCoordinateSystem.exe.config
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\1.CartesianCoordinateSystem\bin\Debug\1.CartesianCoordinateSystem.exe
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\1.CartesianCoordinateSystem\bin\Debug\1.CartesianCoordinateSystem.pdb
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\1.CartesianCoordinateSystem\obj\Debug\1.CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\1.CartesianCoordinateSystem\obj\Debug\1.CartesianCoordinateSystem.exe
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\1.CartesianCoordinateSystem\obj\Debug\1.CartesianCoordinateSystem.pdb

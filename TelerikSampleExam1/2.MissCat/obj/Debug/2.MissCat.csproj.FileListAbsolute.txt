@@ -1,0 +1,6 @@
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\2.MissCat\bin\Debug\2.MissCat.exe.config
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\2.MissCat\bin\Debug\2.MissCat.exe
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\2.MissCat\bin\Debug\2.MissCat.pdb
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\2.MissCat\obj\Debug\2.MissCat.csprojResolveAssemblyReference.cache
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\2.MissCat\obj\Debug\2.MissCat.exe
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\2.MissCat\obj\Debug\2.MissCat.pdb

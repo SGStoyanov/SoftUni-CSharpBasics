@@ -1,0 +1,6 @@
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\4.BinaryDigitsCount\bin\Debug\4.BinaryDigitsCount.exe.config
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\4.BinaryDigitsCount\bin\Debug\4.BinaryDigitsCount.exe
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\4.BinaryDigitsCount\bin\Debug\4.BinaryDigitsCount.pdb
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\4.BinaryDigitsCount\obj\Debug\4.BinaryDigitsCount.csprojResolveAssemblyReference.cache
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\4.BinaryDigitsCount\obj\Debug\4.BinaryDigitsCount.exe
+c:\users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\4.BinaryDigitsCount\obj\Debug\4.BinaryDigitsCount.pdb

@@ -1,0 +1,6 @@
+C:\Users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\5.SubsetSums\bin\Debug\5.SubsetSums.exe.config
+C:\Users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\5.SubsetSums\bin\Debug\5.SubsetSums.exe
+C:\Users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\5.SubsetSums\bin\Debug\5.SubsetSums.pdb
+C:\Users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\5.SubsetSums\obj\Debug\5.SubsetSums.csprojResolveAssemblyReference.cache
+C:\Users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\5.SubsetSums\obj\Debug\5.SubsetSums.exe
+C:\Users\emz\documents\visual studio 2013\Projects\TelerikSampleExam1\5.SubsetSums\obj\Debug\5.SubsetSums.pdb
